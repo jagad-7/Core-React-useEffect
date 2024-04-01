@@ -8,10 +8,10 @@ import ExampleEffectwo from './React-Hooks/UseEffectExamples/ExampleEffect-2';
 function App() {
   return (
     <div className="App">
-      {/* <Index /> */}
-      {/* <IndexTwo /> */}
-      {/* <ExampOne /> */}
-      {/* <ExamOfUseEffect /> */}
+      <Index />
+      <IndexTwo />
+      <ExampOne /> 
+      <ExamOfUseEffect /> 
       <ExampleEffectwo />
 
     </div>
